@@ -14,8 +14,8 @@ Jogabilidade<br>
 A mecânica de jogo exige que os jogadores prestem atenção nos Cauleys e façam as escolhas corretas, sendo que um erro levará de volta ao início.
 
 Ambientes<br>
-Floresta/Campo: As fases iniciais deste jogo desenrolam-se em ambientes naturais e rurais.
-Cavernas: Nas fases intermediárias, os jogadores exploram cavernas misteriosas.
+Floresta/Campo: As fases iniciais deste jogo desenrolam-se em ambientes naturais e rurais.<br>
+Cavernas: Nas fases intermediárias, os jogadores exploram cavernas misteriosas.<br>
 Zela World: As fases finais ocorrem em um mundo de origem desconhecida.
 
 Som<br>
